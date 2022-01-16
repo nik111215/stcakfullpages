@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stcakfullpages/static/css/main.1e9ff4eb.css",
+    "main.js": "/stcakfullpages/static/js/main.c3f81082.js",
+    "static/js/787.9858769f.chunk.js": "/stcakfullpages/static/js/787.9858769f.chunk.js",
+    "static/media/dishes.pdf": "/stcakfullpages/static/media/dishes.d8e350749591adfaf32c.pdf",
+    "static/media/design_for_size.jpg": "/stcakfullpages/static/media/design_for_size.bd3c8350b15d101f8af6.jpg",
+    "static/media/new_design.jpg": "/stcakfullpages/static/media/new_design.668276b00c52e7d51cf4.jpg",
+    "static/media/logo.png": "/stcakfullpages/static/media/logo.fe0cd94bb61d872778fa.png",
+    "static/media/logo.svg": "/stcakfullpages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/stcakfullpages/index.html",
+    "main.1e9ff4eb.css.map": "/stcakfullpages/static/css/main.1e9ff4eb.css.map",
+    "main.c3f81082.js.map": "/stcakfullpages/static/js/main.c3f81082.js.map",
+    "787.9858769f.chunk.js.map": "/stcakfullpages/static/js/787.9858769f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e9ff4eb.css",
+    "static/js/main.c3f81082.js"
+  ]
+}
